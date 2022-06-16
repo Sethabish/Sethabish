@@ -1,2 +1,2 @@
 Srinivas Jonnalagadda -- 
-Data Science student (BBA, pursuing MBA (Big Data Analytics))
+Data Science student (BBA, pursuing MBA (Data Science))
